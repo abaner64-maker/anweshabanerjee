@@ -1,1 +1,19 @@
-# anweshabanerjee
+## 👋 About Me
+
+Business Intelligence Analyst with experience in SQL, Python, Power BI, and Tableau.  
+I enjoy building scalable data models, dashboards, and analytics solutions that turn raw data into actionable insights.
+
+- 🔹 Power BI, Tableau, SQL, DAX, Data Modeling
+- 🔹 Python (Pandas, NumPy), ETL pipelines
+- 🔹 Cloud & Data Platforms: Azure, Snowflake, GCP
+- 🔹 Data Governance, KPI Tracking, A/B Testing
+- 🔹 Cross-functional collaboration & stakeholder communication
+
+📍 United States 
+🎓 MS in Business Analytics – Arizona State University
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=anweshabanerjee&show_icons=true)
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anweshabanerjee&layout=compact)
+
