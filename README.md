@@ -12,7 +12,7 @@ I enjoy building scalable data models, dashboards, and analytics solutions that 
 📍 United States 
 🎓 MS in Business Analytics – Arizona State University
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=anweshabanerjee&show_icons=true)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=abaner64&show_icons=true)
 
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anweshabanerjee&layout=compact)
